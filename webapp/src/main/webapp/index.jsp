@@ -34,7 +34,7 @@
 <<<<<<< HEAD
    <h1>★Thank you, Happy Learning☆</h1>
 =======
-   <h1> Thank you, Happy Learning 2025</h1>
+   <h1> ~~~~~Thank you, Happy Learning 2025</h1>
 >>>>>>> a236e3a08c89d61858f1a1596edb3853fef0d68b
 
   
